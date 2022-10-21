@@ -1,10 +1,5 @@
 ;; Modified by Xperiment 10/2022, based on the code by ByteForever https://www.youtube.com/watch?v=yyCUVOmWhSU
 
-;; Xperiment BUGS and TODO
-;; if the piece hits a piece below, there is no time for it to slide to left or right if that key is pressed - look at the order the checks are made so it can slide just as it does the last drop
-
-;; so what is happening is that when we reach bc == 0, we do not pass through the key press if there is one -
-
 ;;;;;;;;;;;;;;;;;;;;;
 ;;; zx81 16K code (gave up for now with getting tetris working in 1K!!)
 ;;; It's a clone of tetris (in case that wasn't clear from filename;)
