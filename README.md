@@ -2,7 +2,7 @@
 
 To compile, add the .asm file to the repository found at https://github.com/AdrianPilko/ZX81-1K-Experiments
 
-Keys -  z left
-        x right
-        n rotate
-        m drop
+Keys:  <br> &emsp; z left <br>
+&emsp; x right <br>
+&emsp; n rotate <br>
+&emsp; m drop
